@@ -1,0 +1,12 @@
+{
+	"extensions": [
+	  {
+			"url": "https://github.com/anton-kasperovich/adop-platform-extension-rocket.chat",
+			"description": "Rocket.Chat platform extension"
+	  },
+          {
+			"url": "https://github.com/kramos/adop-platform-extension-clair",
+			"description": "Clair platform extension"
+	  }
+	]
+}
